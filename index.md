@@ -37,5 +37,5 @@ OOP program for the classic madlibs game, with ASCII start and end screens.
 * [Source code for application](https://github.com/lucystarks/Lportfolio/files/8780814/MadLibs.3.zip)
 
 ## Contact and Extras
-* Email: 
+* Email: lucyrosestarks@gmail.com
 * Certifications: CTE State Exam (Utah)
