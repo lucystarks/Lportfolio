@@ -1,7 +1,5 @@
 # Lucy's Programming Portfolio 2022
 Computer Programming 1, which focused on Processsing and C++. 
-
-* Contact for [Lucy Starks -](lucyrosestarks@gmail.com)
 ## Processing Projects
 
 ### Space Game
@@ -37,3 +35,7 @@ OOP program for the classic madlibs game, with ASCII start and end screens.
 * Class diagram for program
 * ![Class diagram](https://user-images.githubusercontent.com/89112469/170540703-4130fdab-11cb-43fb-9358-e674166a0378.png)
 * [Source code for application](https://github.com/lucystarks/Lportfolio/files/8780814/MadLibs.3.zip)
+
+## Contact and Extras
+* Email: 
+* Certifications: CTE State Exam (Utah)
