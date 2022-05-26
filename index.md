@@ -1,6 +1,7 @@
 # Lucy's Programming Portfolio 2022
 Computer Programming 1, which focused on Processsing and C++. 
 
+* Contact for [Lucy Starks -](lucyrosestarks@gmail.com)
 ## Processing Projects
 
 ### Space Game
