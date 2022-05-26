@@ -31,6 +31,6 @@ Cars of many colors continuously move both ways across the screen.
 
 ### Mad Libs
 OOP program for the classic madlibs game, with ASCII start and end screens.
-* Screen capture of running application.
+* Screen capture of running application (doesn't show everything).
 * ![Mad Libs](https://user-images.githubusercontent.com/89112469/170540068-7ce6cbb3-e6ba-42c8-811f-aae352858182.png)
 * [Source code for application](https://github.com/lucystarks/Lportfolio/files/8780814/MadLibs.3.zip)
